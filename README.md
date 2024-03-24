@@ -1,4 +1,4 @@
-### Hi there, I am Shubham 
+### :wave:Hi there, I am Shubham 
 
 ### I'm a Software Engineer and a Machine Learning enthusiast.
 
@@ -8,3 +8,6 @@
 - 💬 Ask me about ReactJS, NodeJS, Golang, Python.
 - 📫 How to reach me: Check About Me section.
 - ⚡ Fun fact: ...
+### Solo Projects
+- Contact App [:link:](https://main--endearing-truffle-95d0ae.netlify.app/)
+- Dukan App Clone.
