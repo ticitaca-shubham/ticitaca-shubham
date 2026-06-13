@@ -20,7 +20,7 @@ I build production-grade web applications with a focus on backend architecture, 
 
 ### 🚀 Featured Project
 
-**[PlayXL](https://analyst-frontend.vercel.app)** — NLP-Powered Excel Analysis Tool
+**[PlayXL](https://analyst-frontend-nine.vercel.app/)** — NLP-Powered Excel Analysis Tool
 
 Upload any `.xlsx` file and interact with your data through natural language. Ask questions, filter rows, sort columns, and generate charts — no formulas needed. Built with React frontend and Django backend. Deployed on Vercel.
 
